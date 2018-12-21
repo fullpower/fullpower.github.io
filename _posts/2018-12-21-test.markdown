@@ -1,0 +1,18 @@
+---
+layout:     post
+title:      "测试"
+subtitle:   "这是一篇测试文章"
+date:       2018-12-21 12:00:00
+author:     "fullpower"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - 其他
+---
+
+> “Yeah It's on. ”
+
+## 数学公式
+$E=mc^2$
+
+
