@@ -4,7 +4,7 @@ SEOTitle: fullpower's blog
 header-img: img/home-bg.jpg
 email: fullpowerchina@gmail.com
 description: "随笔"
-keyword: "算法，编程，生活"
+keyword: "算法，生活"
 url: "https://fullpower.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -14,7 +14,7 @@ future: true
 # SNS settings
 RSS: false
 #weibo_username:     huxpro
-zhihu_username: fullpower
+zhihu_username: xuyewen
 github_username: fullpower
 #twitter_username:   huxpro
 #facebook_username:  huxpro
@@ -71,15 +71,15 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+# ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+# ga_domain: huangxuan.me
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
-sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Hello, World!"
+sidebar-avatar: /img/fighting.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
