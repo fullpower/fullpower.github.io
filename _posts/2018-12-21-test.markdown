@@ -14,6 +14,7 @@ tags:
 > “Yeah It's on. ”
 
 ## 数学公式
+latex公式1
 $E=mc^2$
-
+latex公式2
 $$E=mc^2$$
