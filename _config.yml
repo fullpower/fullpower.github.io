@@ -103,13 +103,13 @@ page-mathjax: true
 # Friends
 friends: [
     {
-    #     title: "Su",
-    #     href: "http://su.gallery/"
-    # },{
         title: "jcvb",
         href: "http://jcvb.is-programmer.com"
     },{
         title: "dzy",
         href: "http://dzy493941464.is-programmer.com/"
+    },{
+        title: "九条可怜",
+        href: "https://www.zhihu.com/people/ji-ru-yi-3/activities"
     }
 ]
